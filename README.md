@@ -1,32 +1,12 @@
 # 2023届算法求职信息汇总
+
+**:page_facing_up:2023算法岗求职经验汇总**:https://github.com/kongyan66/leetcode-daily
+
+---
+
 :deciduous_tree: [**春招信息汇总**](https://ib06tzrces.feishu.cn/docx/Lx9Md971foI67Mxo6qQch9janOg)
 
-**春招投递计划（2023）**
-<style>
-table {
-  counter-reset: rowNumber -1;
-}
-
-table tr:before {
-  display: table-cell;
-  counter-increment: rowNumber;
-  content: counter(rowNumber) ".";
-  padding-right: 0.3em;
-  padding-top: 0.3em;
-  text-align: center;
-  /* border: 1px solid gray; */
-  border-bottom:1px solid #dddddd;
-  border-top:1px solid #dddddd;
-  border-right:1px solid #cccccc;
-  border-left:1px solid #cccccc;
-}
-
-table tr:nth-child(even),thead
-{
-  background: #dddddd;
-}
-
-</style>
+**春招投递计划（2月-）**
 | 公司| 方式 | 时间 | 状态|进度查询|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | 理想   | 补录     | 2.19     | 待笔试    | [官网]() | |
@@ -37,33 +17,8 @@ table tr:nth-child(even),thead
 | TP   | 春招     | 2.25     | 待投递    | [官网](https://hr.tp-link.com.cn/jobDetail/5788) | |
 | 吉利   | 春招     | 2.25     | 待投递    | [官网](https://campus.geely.com/hcm-web/#/login) | |
 
-**提前批在投(6-7月)**
+**秋招提前批在投(6-7月)**
 
-<style>
-table {
-  counter-reset: rowNumber -1;
-}
-
-table tr:before {
-  display: table-cell;
-  counter-increment: rowNumber;
-  content: counter(rowNumber) ".";
-  padding-right: 0.3em;
-  padding-top: 0.3em;
-  text-align: center;
-  /* border: 1px solid gray; */
-  border-bottom:1px solid #dddddd;
-  border-top:1px solid #dddddd;
-  border-right:1px solid #cccccc;
-  border-left:1px solid #cccccc;
-}
-
-table tr:nth-child(even),thead
-{
-  background: #dddddd;
-}
-
-</style>
 | 公司| 方式 | 时间 | 状态|进度查询|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | ~~百度~~    | 内推     | 6.13     | 初筛挂    | [官网](https://talent.baidu.com/external/baidu/index.html#/individualCenter) |AIDU计划
@@ -101,7 +56,7 @@ table tr:nth-child(even),thead
 | ~~完美世界~~   | 牛客内推     | 8.08     | 笔试挂    | [官网](https://recruit.games.wanmei.com/campus-recruitment/pwrd/45131/#/candidateHome/applications)  | 
  
 
-**正式批在投(8月-）**
+**秋招正式批在投(8月-11月）**
 | 公司| 方式 | 时间 | 状态|进度查询|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | ~~快手~~ | 官网    | 8.05    | 初筛挂    | [官网](https://campus.kuaishou.cn/recruit/campus/e/#/campus/my-apply) |
@@ -198,24 +153,11 @@ table tr:nth-child(even),thead
 ----
 
 ## 招聘信息
-### 提前批（进行中）
-时间节点：6月-7月  
-部分正式批开启
 **招聘公司汇总：**
 - [牛客汇总](https://www.nowcoder.com/discuss/935228?source_id=profile_create_nctrack&channel=-1) (持续更新)
 包含百度、海尔、最右、同花顺已开启
 - [cver汇总](https://wx.zsxq.com/dweb2/index/group/555225242544) （须登录）
 ![](https://pad.degrowth.net/uploads/upload_e4ee91c854623967c791363e6569fada.png)
-
-
-
-
-
-
-### 正式批（已开启）
-时间节点：8月-11月
-
-
 
 ----
 
@@ -250,7 +192,4 @@ table tr:nth-child(even),thead
 - [深度学习500问](https://github.com/kongyan66/DeepLearning-500-questions)
 
 
-----
-
-## 实战复盘
 
