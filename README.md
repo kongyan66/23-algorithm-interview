@@ -3,9 +3,11 @@
 **:page_facing_up:2023算法岗求职考点汇总（非常推荐）**: https://github.com/kongyan66/leetcode-daily
 
 ---
-## 招聘平台
-- 公司官网（主要方式）
-- boss直聘（主要方式）
+## 招聘平台/信息收集
+- 公司官网（推荐）
+- boss直聘（非常推荐）
+- 脉脉
+- offershow
 - [国聘](https://c.iguopin.com/job/apply)（不好用）
 - [智联招聘](https://xiaoyuan.zhaopin.com/scrd/delivery/record)（不好用）
 
