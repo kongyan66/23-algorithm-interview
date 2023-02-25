@@ -1,13 +1,13 @@
 # 2023届算法求职信息汇总
 
-**:page_facing_up:2023算法岗求职经验汇总**:https://github.com/kongyan66/leetcode-daily
+**:page_facing_up:2023算法岗求职经验汇总**: https://github.com/kongyan66/leetcode-daily
 
 ---
 
 :deciduous_tree: [**春招信息汇总**](https://ib06tzrces.feishu.cn/docx/Lx9Md971foI67Mxo6qQch9janOg)
 
 **春招投递计划（2月-）**
-| 公司| 方式 | 时间 | 状态|进度查询|备注|
+| 公司| 方式 | 时间 | 状态|方式|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | 理想   | 补录     | 2.19     | 待笔试    | [官网]() | |
 | 佑驾科技   | 春招     | 2.20     | 初筛中    | 邮箱 | |
@@ -19,7 +19,7 @@
 
 **秋招提前批在投(6-7月)**
 
-| 公司| 方式 | 时间 | 状态|进度查询|备注|
+| 公司| 方式 | 时间 | 状态|方式|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | ~~百度~~    | 内推     | 6.13     | 初筛挂    | [官网](https://talent.baidu.com/external/baidu/index.html#/individualCenter) |AIDU计划
 | ~~海尔~~   | 官网     | 6.19     | 初筛挂    |  [官网](http://maker.haier.net/client/campus/mydeliverydetail/did/131870/jpid/0.html) |
@@ -57,7 +57,7 @@
  
 
 **秋招正式批在投(8月-11月）**
-| 公司| 方式 | 时间 | 状态|进度查询|备注|
+| 公司| 方式 | 时间 | 状态|方式|备注|
 |:--------: | :--------: | :--------: |:--------: |:--------:|:--------:|
 | ~~快手~~ | 官网    | 8.05    | 初筛挂    | [官网](https://campus.kuaishou.cn/recruit/campus/e/#/campus/my-apply) |
 | ~~海康威视~~  | 官网     | 8.05     | 复筛挂  | [官网](https://campushr.hikvision.com/myDelivery.htmlxsb3dNb2RpZnlPdGhlckluZm8==1)  | 
@@ -120,7 +120,7 @@
 |小天才|-|10.15|已笔试|[官网](https://app.mokahr.com/campus_apply/eebbk/37594?sourceToken=6831427792ce89a9d9ac1dd75ef08814#/candidateHome/applications)|
 | 美团 | 内推     | 9.10     | 已笔试   | [官网](https://campus.meituan.com/apply-record) |
 |比亚迪|-|10.09|初筛中|[官网](http://job.byd.com/zpweb/zpweb/planList.do?actPara=wishList)|
-|上汽集团|-|10.17|已测评|[官网](https://saicmotor.zhiye.com/personal/deliveryRecord)|密码:byd123
+|上汽集团|-|10.17|已测评|[官网](https://saicmotor.zhiye.com/personal/deliveryRecord)|
 |精锋医疗|-|10.20|已拒|boss|
 |~~道创智能~~|-|10.20|已拒|boss| 
 |~~舜宇~~|-|10.20|已拒|boss|
@@ -140,27 +140,29 @@
 |~~中国联通~~|-|11.02|已拒|boss|
 |蓝芯科技|-|11.23|一面挂|内推|
 |**聆思科技**|-|12.8|已offer|内推|
-**招聘平台**
-- [国聘](https://c.iguopin.com/job/apply)
-- [智联招聘](https://xiaoyuan.zhaopin.com/scrd/delivery/record)
 
+----
+## 招聘平台
+- 公司官网（主要方式）
+- boss直聘（主要方式）
+- [国聘](https://c.iguopin.com/job/apply)（不好用）
+- [智联招聘](https://xiaoyuan.zhaopin.com/scrd/delivery/record)（不好用）
 
+----
 ## 扫盲贴
 - [秋招和提前批是什么？该如何准备?](https://www.nowcoder.com/discuss/950858)
 - [技术岗选择介绍](https://zhiy.cc/letter/2093)
 - [牛客使用介绍](https://www.nowcoder.com/discuss/955090?source_id=profile_create_nctrack&channel=-1)
 
-----
 
+----
 ## 招聘信息
 **招聘公司汇总：**
 - [牛客汇总](https://www.nowcoder.com/discuss/935228?source_id=profile_create_nctrack&channel=-1) (持续更新)
 包含百度、海尔、最右、同花顺已开启
 - [cver汇总](https://wx.zsxq.com/dweb2/index/group/555225242544) （须登录）
-![](https://pad.degrowth.net/uploads/upload_e4ee91c854623967c791363e6569fada.png)
 
 ----
-
 ## 面经
 ### 算法类
 #### 汇总贴
@@ -180,7 +182,6 @@
 - [自动驾驶岗位相关面经](https://www.nowcoder.com/discuss/1022844?type=5&channel=-1&source_id=discuss_terminal_discuss_jinghua_nctrack)
 
 ----
-
 ## 基础知识
 **Python基础**
 - [python coding interview](https://github.com/liyin2015/python-coding-interview)
